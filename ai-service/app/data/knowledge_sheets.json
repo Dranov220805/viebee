@@ -1,0 +1,190 @@
+{
+  "ws-che-buoi": {
+    "workshopId": "ws-che-buoi",
+    "title": "Old-Alley Authentic Chè Bưởi & Pomelo Blossom Cooking",
+    "titleVi": "Nấu Chè Bưởi Cổ Truyền Hương Hoa Bưởi Tại Con Hẻm Bàn Cờ",
+    "hostName": "Bà Ba (Nguyễn Thị Mai)",
+    "district": "District 3 (Quận 3 - Bàn Cờ)",
+    "address": "Hẻm 242/18 Nguyễn Thiện Thuật, Phường 3, Quận 3, TP. Hồ Chí Minh",
+    "history": "Southern Chè Bưởi originated as a seasonal dessert in the Mekong Delta and Saigon. Bà Ba learned the recipe from her grandmother in the late 1960s, preserving handcrafting techniques for over 45 years.",
+    "techniques": [
+      "Brining and massaging white pomelo pith (cùi bưởi) with coarse sea salt to extract bitterness completely.",
+      "Soaking in warm alum water, washing repeatedly, and rolling thoroughly in pure tapioca flour.",
+      "Rapid boiling to create crispy translucent gems (những viên cùi bưởi trong veo, giòn sần sật).",
+      "Gently folding steamed golden split mung beans into fragrant pomelo flower nectar and warm coconut cream."
+    ],
+    "ingredients": [
+      "Fresh Năm Roi Pomelo Pith (Cùi bưởi Năm Roi)",
+      "Steamed Split Mung Beans (Đậu xanh xát vỏ)",
+      "Organic Tapioca Starch (Bột năng nguyên chất)",
+      "Natural Distilled Pomelo Blossom Extract (Nước hoa bưởi chưng cất truyền thống)",
+      "Fresh Coconut Milk (Nước cốt dừa tươi)",
+      "Crushed Toasted Peanuts (Đậu phộng rang vàng giòn)"
+    ],
+    "allergens": [
+      "Peanuts (toasted peanut garnish — host can completely omit upon advance request)",
+      "Coconut (coconut milk)"
+    ],
+    "etiquetteTips": [
+      "Please remove your shoes before stepping into the family living quarters.",
+      "Greet the elder host with two hands slightly clasped as a sign of respect ('Dạ con chào Bà').",
+      "Warm lotus or jasmine tea is served first before starting the kitchen hearth."
+    ],
+    "bilingualDictionary": [
+      { "en": "Pomelo pith / rind", "vi": "Cùi bưởi", "note": "White spongy inner layer" },
+      { "en": "Mung beans", "vi": "Đậu xanh", "note": "Steamed until soft and nutty" },
+      { "en": "Tapioca flour", "vi": "Bột năng", "note": "Produces glossy, chewy texture" },
+      { "en": "Pomelo flower water", "vi": "Nước hoa bưởi", "note": "Aromatic floral fragrance" },
+      { "en": "Coconut milk", "vi": "Nước cốt dừa", "note": "Rich Southern topping" }
+    ]
+  },
+  "ws-bamboo-weaving": {
+    "workshopId": "ws-bamboo-weaving",
+    "title": "Living Heritage Bamboo Weaving & Coaster Crafting",
+    "titleVi": "Nghệ Thuật Đan Lát Mây Tre Thủ Công & Chuyện Nghề Sông Nước",
+    "hostName": "Chú Tư Tre (Trần Văn Tư)",
+    "district": "Bình Thạnh (Thanh Đa)",
+    "address": "88/4 Bình Quới, Cư xá Thanh Đa, Bình Thạnh, TP. Hồ Chí Minh",
+    "history": "Bamboo is Vietnam's spiritual tree — resilient, pliable, and communal. Chú Tư preserves rural craft traditions brought to Saigon by migrant riverway artisans in the mid-20th century.",
+    "techniques": [
+      "Shaving and splitting soaked green bamboo stalks into paper-thin, flexible ribbons (chuốt nan tre).",
+      "Traditional cross-hatch herringbone weaving pattern (đan nong mốt, nong hai).",
+      "Hand-binding the circular outer rim using organic hemp cords and sealing with natural tree beeswax."
+    ],
+    "ingredients": [
+      "Smoked pliable bamboo strips (Nan tre ngâm dẻo)",
+      "Organic hemp cords (Dây gai tự nhiên)",
+      "Natural beeswax sealant (Sáp ong rừng bóng mờ)"
+    ],
+    "allergens": [
+      "None. Natural plant fibers only."
+    ],
+    "etiquetteTips": [
+      "Watch the artisan's hand positions closely before applying force with shaping knives.",
+      "Never step across raw bamboo strips laid on the craft mat.",
+      "Handle tools with two hands when passing them to the elder craftsman."
+    ],
+    "bilingualDictionary": [
+      { "en": "Bamboo strips", "vi": "Nan tre", "note": "Thin shaved flexible bamboo" },
+      { "en": "Shaping knife", "vi": "Dao chuốt", "note": "Traditional bone-handled knife" },
+      { "en": "Tea coaster", "vi": "Lót ly đan tre", "note": "Finished craft takeaway item" }
+    ]
+  },
+  "ws-nambo-pottery": {
+    "workshopId": "ws-nambo-pottery",
+    "title": "Nam Bộ Handcrafted Terracotta & Alleyway Kiln Pottery",
+    "titleVi": "Vuốt Gốm Đất Đỏ Nam Bộ & Nặn Đồ Gia Dụng Truyền Thống",
+    "hostName": "Nghệ Nhân Năm Gốm (Lê Văn Năm)",
+    "district": "District 5 (Chợ Lớn)",
+    "address": "12 Lò Gốm, Phường 8, Quận 5, TP. Hồ Chí Minh",
+    "history": "Saigon's historic Lò Gốm quarter was the beating heart of Southern ceramic trade along the Tàu Hủ canal from the 18th to late 20th century.",
+    "techniques": [
+      "Wedging and kneading natural red alluvial clay from the Đồng Nai riverbed.",
+      "Centering and pulling vessels on a low Southern kickwheel (bàn xoay chân gỗ).",
+      "Decorating with traditional comb incisions and hand-applying ash-rice husk glazes."
+    ],
+    "ingredients": [
+      "Southern red clay (Đất sét đỏ phù sa)",
+      "Natural wood ash & rice husk glaze (Men tro trấu)",
+      "Carving stylus & wooden ribs"
+    ],
+    "allergens": ["None. Natural mineral clay."],
+    "etiquetteTips": [
+      "Aprons are provided; please roll up sleeves above elbows.",
+      "Work gently with clay dust — wash hands in designated sediment basins."
+    ],
+    "bilingualDictionary": [
+      { "en": "Red clay", "vi": "Đất sét đỏ", "note": "Rich Southern alluvial soil" },
+      { "en": "Kickwheel", "vi": "Bàn xoay gốm", "note": "Foot-powered potter wheel" }
+    ]
+  },
+  "ws-silk-embroidery": {
+    "workshopId": "ws-silk-embroidery",
+    "title": "Bảo Lộc Mulberry Silk Embroidery & Lotus Petal Art",
+    "titleVi": "Thêu Tay Chỉ Tơ Tằm Bảo Lộc & Họa Tiết Sen Cổ Điển",
+    "hostName": "Cô Lan Thêu (Võ Thị Hoàng Lan)",
+    "district": "District 1 (Đa Kao)",
+    "address": "45/2 Đinh Tiên Hoàng, Phường Đa Kao, Quận 1, TP. Hồ Chí Minh",
+    "history": "Traditional hand-embroidery on pure Vietnamese mulberry silk reflects centuries of aristocratic and everyday textile heritage.",
+    "techniques": [
+      "Stretching pure raw silk onto wooden tambour hoops.",
+      "Splitting fine silk threads into 4 or 8 micro-strands for gradient shading (chỉ tơ tơ tằm).",
+      "Executing delicate satin stitches (thêu đâm xô) to shade realistic lotus flower petals."
+    ],
+    "ingredients": [
+      "100% Bảo Lộc Mulberry Silk Canvas",
+      "Naturally dyed silk threads (Chỉ tơ nhuộm thảo mộc)",
+      "Bamboo tambour hoop & fine Japanese needles"
+    ],
+    "allergens": ["None. Hypoallergenic natural silk."],
+    "etiquetteTips": [
+      "Keep hands clean and dry before touching silk fabric.",
+      "Work in relaxed silence to appreciate needle rhythm."
+    ],
+    "bilingualDictionary": [
+      { "en": "Mulberry silk", "vi": "Tơ tằm", "note": "High-grade Vietnamese natural silk" },
+      { "en": "Embroidery hoop", "vi": "Khung thêu", "note": "Wooden tension hoop" }
+    ]
+  },
+  "ws-lotus-tea": {
+    "workshopId": "ws-lotus-tea",
+    "title": "Sacred Lotus Blossom Tea Scenting Ceremony",
+    "titleVi": "Nghệ Thuật Ướp Trà Sen Bách Diệp Tây Hồ & Đạo Trà Việt",
+    "hostName": "Thầy Minh (Nguyễn Quang Minh)",
+    "district": "District 3 (Võ Thị Sáu)",
+    "address": "18A/4 Ngô Thời Nhiệm, Phường Võ Thị Sáu, Quận 3, TP. Hồ Chí Minh",
+    "history": "Vietnamese lotus tea is known as the king of teas, once reserved exclusively for royal courts.",
+    "techniques": [
+      "Placing wild Shan Tuyết ancient tea leaves directly into blooming hundred-petal lotus blossoms at dawn.",
+      "Gentle drying over clay charcoal hearths to capture pure floral essential oils.",
+      "Brewing in miniature Yixing teapots with pure 85°C mountain spring water."
+    ],
+    "ingredients": [
+      "Wild Shan Tuyết Old-Growth Tea (Trà Shan Tuyết cổ thụ)",
+      "Fresh West Lake 100-petal Lotus Blossoms (Hoa sen Bách Diệp)",
+      "Mountain spring water"
+    ],
+    "allergens": ["None. Pure natural tea."],
+    "etiquetteTips": [
+      "Turn off mobile phone ringers to preserve serene tea meditation.",
+      "Receive the hot tea cup with both hands."
+    ],
+    "bilingualDictionary": [
+      { "en": "Lotus tea", "vi": "Trà sen", "note": "Floral scented green tea" },
+      { "en": "Tea ceremony", "vi": "Thưởng trà", "note": "Vietnamese tea appreciation" }
+    ]
+  },
+  "ws-banh-xeo": {
+    "workshopId": "ws-banh-xeo",
+    "title": "Crispy Southern Bánh Xèo Crepe & Wild Herb Foraging",
+    "titleVi": "Đổ Bánh Xèo Miền Tây Giòn Rụm & Rau Rừng Vườn Nhà",
+    "hostName": "Dì Út (Huỳnh Thị Ngọc Út)",
+    "district": "District 1 (Tân Định)",
+    "address": "33/7 Trần Khắc Chân, Phường Tân Định, Quận 1, TP. Hồ Chí Minh",
+    "history": "Bánh Xèo is the iconic sizzle of Southern Vietnam home kitchens, named after the loud sizzle ('xèo xèo') when batter hits lard in a smoking cast-iron wok.",
+    "techniques": [
+      "Stone-milling wet rice batter blended with golden turmeric and fresh coconut milk.",
+      "High-heat wok swirling for paper-thin lace edges (viền bánh giòn tan).",
+      "Wrapping hot crepe slices in assorted wild leaves: lá cóc, lá xoài non, cải bẹ xanh, lá lốt."
+    ],
+    "ingredients": [
+      "Fresh ground rice flour & turmeric root",
+      "Mekong river shrimp & thinly sliced pork belly",
+      "Bean sprouts & mung beans",
+      "Wild garden herbs (Rau rừng Tây Nam Bộ)",
+      "Garlic chili lime fish sauce"
+    ],
+    "allergens": [
+      "Shrimp / Shellfish (can substitute with tofu/mushrooms)",
+      "Fish sauce (contains anchovy extract)"
+    ],
+    "etiquetteTips": [
+      "Bánh Xèo is best eaten with bare hands by wrapping with wild herbs.",
+      "Dip generously in fish sauce and enjoy in a single bite."
+    ],
+    "bilingualDictionary": [
+      { "en": "Sizzling crepe", "vi": "Bánh xèo", "note": "Crispy rice flour savory pancake" },
+      { "en": "Wild herbs", "vi": "Rau rừng", "note": "Traditional Southern foraged leaves" }
+    ]
+  }
+}

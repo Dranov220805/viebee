@@ -1,0 +1,40 @@
+{
+  "name": "viebee-frontend",
+  "version": "1.0.0",
+  "private": true,
+  "description": "VieBee — Mapping Living Heritage, Empowering Communities. P2P experiential cultural micro-workshops and AI Copilot.",
+  "scripts": {
+    "dev": "next dev -p 3000",
+    "build": "next build",
+    "start": "next start -p 3000",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "@ant-design/cssinjs": "^1.24.0",
+    "@ant-design/icons": "^6.3.2",
+    "@reduxjs/toolkit": "^2.5.0",
+    "antd": "^6.2.0",
+    "axios": "^1.13.5",
+    "clsx": "^2.1.1",
+    "dayjs": "^1.11.13",
+    "lucide-react": "^1.16.0",
+    "motion": "^12.43.0",
+    "next": "16.1.1",
+    "qs": "^6.15.0",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "react-redux": "^9.2.0"
+  },
+  "devDependencies": {
+    "@svgr/webpack": "^8.1.0",
+    "@tailwindcss/postcss": "^4",
+    "@types/node": "^20",
+    "@types/qs": "^6.14.0",
+    "@types/react": "^19",
+    "@types/react-dom": "^19",
+    "eslint": "^9",
+    "eslint-config-next": "16.1.1",
+    "tailwindcss": "^4",
+    "typescript": "^5"
+  }
+}
